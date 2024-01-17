@@ -110,7 +110,7 @@ body {
     align-items: center;
 }
 .player-img img {
-    max-width: 50%;
+    max-width: 25%;
 }
 .player-head p{
     text-align: center;
@@ -154,7 +154,7 @@ body {
     }
 
     .player-img img {
-        max-width: 95%;
+        max-width: 60%;
     }
 }
 
